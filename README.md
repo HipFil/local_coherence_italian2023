@@ -1,1 +1,3 @@
 # local_coherence_italian2023
+
+Hi! this is the code repository of my master thesis work "Local Coherence Modeling for Italian Language" made under Libera Università di Bolzano. The work addresses specifically local coherence in Italian language and it's deeply inspired by the DisCoTex classification task proposed by EVALITA 2023. Here you can find notebooks, fine tuned models and additional data used to make research and experiments. The work is not officially part of the EVALITA 2023 campaign, but it aims to push reaserch on Italian automatic language systems and give a wide view of the computional limits and possibilities.
